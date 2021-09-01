@@ -11,5 +11,8 @@ Here are some queries about me....
 - 🌱 I’m currently learning about camera sensors and cuda programming.
 - 💬 I usually work with PyTorch. I have experiences with TensorFlow (1.x), Keras and MATLAB. 
 - 📫 How to reach me: smnadimuddin at gmail dot com
-- ⚡ Fun fact: I have recently stopped smoking. 
+<!-- - ⚡ Fun fact: I have recently stopped smoking.  -->
+
+[![Sayed Nadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayednadim&show_icons=true&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
