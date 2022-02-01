@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am currently pursuing my Ph.D. in the Department of IT Convergence Engineering in Gachon University, Korea, and working as a researcher in [CVIP Lab](https://sites.google.com/site/gachoncvip/home), Gachon University. I have completed my master's from the same department (2019-2021).
+I am currently working as a researcher in [CVIP Lab](https://sites.google.com/site/gachoncvip/home), Gachon University. I have completed my master's from the same department (2019-2021).
 <br><br>
 My current research interests include camera sensors, 2D & 3D image processing, and deep generative models. 
 <br><br>
