@@ -8,7 +8,6 @@ My current research interests lie in modeling visual perception systems, camera 
 Here are some queries about me....
 <br>
 - 🔭 I’m currently working on color filter arrays and event cameras.
-<!-- - 🌱 I’m currently learning about camera sensors and cuda programming. -->
 - 💬 I usually work with PyTorch. I have experiences with TensorFlow (1.x), Keras and MATLAB. 
 - 📫 How to reach me: smnadimuddin at gmail dot com
 <!-- - ⚡ Fun fact: I have recently stopped smoking.  -->
