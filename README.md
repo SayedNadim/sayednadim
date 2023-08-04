@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 
+I am currently working as a team lead and AI researcher in [DeltaX.ai](http://deltax.ai/renewal/eng/). Concurrently, I am working as a PhD researcher in [CVIP Lab](https://sites.google.com/site/gachoncvip/home), Gachon University, Republic of Korea. I have completed my master's from the Department of Software (2019-2021) from Gachon University.
+<br><br> -->
 <!-- I am currently working as a researcher in [CVIP Lab](https://sites.google.com/site/gachoncvip/home), Gachon University. I have completed my master's from the Department of Software (2019-2021) from Gachon University.
 <br><br> -->
 My current research interests lie in modeling visual perception systems, camera sensors, 2D/3D image processing, and deep generative models.
