@@ -6,7 +6,7 @@ I am a computer vision researcher with experience in developing cutting-edge AI-
 I am currently working as a team lead and AI researcher in [DeltaX.ai](http://deltax.ai/renewal/eng/). Prior to that, I was working as a vision researcher in [CVIP Lab](https://sites.google.com/site/gachoncvip/home), Gachon University, Republic of Korea. 
 
 ---
-#### Profession Experience
+### Profession Experience**
 
 - Team Lead and AI Researcher (Oct 2022 - Present), X-Camera ADAS Team, AI Lab, DeltaX.ai, Rep. of Korea.
   - Led a team of developers working on large-scale, complex, and cutting-edge systems.
