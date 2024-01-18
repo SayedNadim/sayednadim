@@ -41,6 +41,21 @@ Here are some queries about me....
 - 🔭 I’m currently working on color filter arrays and event cameras.
 - 💬 I usually work with PyTorch. I have experiences with TensorFlow (1.x), Keras and MATLAB. 
 - 📫 How to reach me: smnadimuddin at gmail dot com
+---
+### News
+---
+- Nov 20, 2023 -   [Job] I have been assigned as a Group Lead at DeltaX.ai. I will be overseeing the Automotive Perception Group and mainly be working with several teams to build ADAS, DMS, OMS and SCMS solutions.
+- Apr 14, 2023 -	[Conference] Our team has successfully participated in CVPR’23 2nd Monocular Depth Estimation Challenge.
+- Oct 25, 2022 -	[Job] I have joined DeltaX.ai as a Team Lead and AI Researcher.
+- Sep 4, 2022 - 	[Journal] Our paper “Multi-Scale Attention-Guided Non-Local Network for HDR Image Reconstruction” has been published in the Sensors (Q1, Impact Factor - 3.847) Journal.
+- Aug 1, 2022 - 	[Conference] Our team has successfully participated in ECCV’22 AIM Challenge on Reversed ISP (Track 1).
+- Jun 26, 2022 - 	[Journal] Our paper “Unsupervised Deep Event Stereo for Depth Estimation” has been accepted in the IEEE Transactions on Circuits and Systems for Video Technology- (Q1, Impact Factor - 5.859).
+- May 10, 2022 - 	[Journal] Our paper “SIFNet: Free-form image inpainting using color split-inpaint-fuse approach” has been published in the Computer Vision and Image Understanding Journal (Volume 221, August 2022, 103446) - (Q1, Impact Factor - 4.886).
+- Feb 3, 2021 - 	[Conference] Our paper “Deep Event Stereo Leveraged by Event to Image Translation” is published in AAAI Conference on Artificial Intelligence (AAAI-21).
+- Jul 21, 2020 -	[Conference] Our team has successfully participated in ECCV AIM Challenge on Image Extreme Inpainting.
+- Jun 4, 2020 -	[Journal] Our paper “Global and local attention-based free-form image inpainting” has been published in the Sensors (Q1, Impact Factor - 3.847) Journal.
+
+
 <!-- - ⚡ Fun fact: I have recently stopped smoking.  -->
 
 <!-- [Sayed Nadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayednadim&show_icons=false&theme=gotham&count_private=true&hide=contribs)>
