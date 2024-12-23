@@ -8,29 +8,28 @@ I am currently working as a Group Lead and AI researcher in [DeltaX.ai](http://d
 ---
 ### Professional Experience
 ---
-- Group Lead | Nov 2023 - Present | Automotive Perception Group, AI Lab, DeltaX.ai, Rep. of Korea.
-    - Leading several teams working on building ADAS solutions and SCMS-DMS-OMS solutions.
+- **| Nov 2024 - Present |** _Senior AI/ML Researcher_ | AI Team, R&D Department, Deep In Sight Co., Ltd
+    - AI and Computer Vision Development: Designing AI models and traditional image processing solutions, addressing geometric and 3D vision challenges in computer vision.
+    - System and Pipeline Development: Developing robust systems and data collection pipelines to support advanced vision applications and optimization tasks.
+    - Optimization and Problem Solving Tackling complex optimization problems to enhance performance and ensure seamless integration of computer vision solutions.
 
-- Team Lead and AI Researcher | Oct 2022 - Nov 2023 | X-Camera ADAS Team, AI Lab, DeltaX.ai, Rep. of Korea.
-  - Led a team of developers working on large-scale, complex, and cutting-edge systems.
-  - Prepared industrial proposals for projects and PoCs.
-  - Managed the delivery of multiple, complex, simultaneous development projects from design through to release.
-  - Led cutting-edge R\&D projects which eventually progressed to industrial projects/PoCs.
-  - Monitored the performance of the team and reported on performance metrics.
-  - Conducted job-related administrative works.
+- **| Oct 2022 - Nov 2024 |** _Group Lead, Team Lead and AI Researcher_ | Automotive Perception Group, AI Lab, DeltaX.ai, Rep. of Korea.
+    - Led several teams working on building ADAS solutions and SCMS-DMS-OMS solutions.
+    - Managed the delivery of multiple, complex, simultaneous development projects from design through to release.
+    - Led cutting-edge R\&D projects which eventually progressed to industrial projects/PoCs.
 
-- Vision Researcher | Mar 2019 - Sep 2022 | Computer Vision and Image Processing (CVIP) Lab, Gachon University, Rep. of Korea.
+- **| Mar 2019 - Sep 2022 |** _Vision Researcher_ | Computer Vision and Image Processing (CVIP) Lab, Gachon University, Rep. of Korea.
   - Worked with deep learning-based generative image synthesis tasks such as image inpainting, image colorization etc., and stereo depth estimation using bio-inspired vision systems. 
   - Participated in various industrial projects regarding depth estimation, face detection etc.
   - Provided lectures on the concepts of computer vision/ deep learning and hands-on training on Python and PyTorch.
   - Conducted job-related administrative works.
 
-- Analyst, Business Development | Jul 2018 - Jan 2019 | Apex DMIT Ltd. (former 'Kazi IT Center'), Dhaka, Bangladesh.
+- **| Jul 2018 - Jan 2019 |** _Analyst, Business Development_ | Apex DMIT Ltd. (former 'Kazi IT Center'), Dhaka, Bangladesh.
   - Participated in analysing and managing overseas assets. 
   - Managed several assets and freelance contractors through direct/indirect supervisions.
   - Performed several administrative duties such as participating/supervising asset bidding, compiling reports, attending/organizing seminars etc. 
 
-- Teaching Assistant | Feb 2018 - Jun 2018 | Dept. of EEE, University of Liberal Arts, Bangladesh.
+- **| Feb 2018 - Jun 2018 |** _Teaching Assistant_ | Dept. of EEE, University of Liberal Arts, Bangladesh.
   - Provided lectures on course-specific concepts and hands-on training on circuits and embedded systems.
   - Allocated tasks, projects and performed grading.
   - Conducted job-related administrative works.
