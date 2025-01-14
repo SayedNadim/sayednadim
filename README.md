@@ -3,7 +3,7 @@
 
 I am a computer vision researcher with experience in developing cutting-edge AI-based solutions for autonomous vehicles, leading several teams and concurrently working as an AI researcher. I have experience in designing traditional/deep learning methods for 2D \& 3D image processing techniques, utilizing supervised/semi-supervised/unsupervised learning, working with different sensors (RGB pinhole/wideangle/Fisheye cameras, Monochrome cameras, NIR/LWIR cameras, Neuromorphic sensors, LiDAR, IMU, etc.), and deep generative models. 
 
-I am currently working as a Group Lead and AI researcher in [DeltaX.ai](http://deltax.ai/renewal/eng/). Prior to that, I was working as a vision researcher in [CVIP Lab](https://sites.google.com/site/gachoncvip/home), Gachon University, Republic of Korea. 
+I am currently working as a Senior AI/ML Researcher in [Deep In Sight Co., Korea](http://dinsight.ai).
 
 ---
 ### Professional Experience
