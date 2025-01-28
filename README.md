@@ -43,6 +43,7 @@ Here are some queries about me....
 ---
 ### News
 ---
+- Nov 18, 2024 - [Job] I have joined Deep In Sight as a senior AI/ML researcher. I will be working in R&D department, focusing on algorithms.
 - Nov 20, 2023 -   [Job] I have been assigned as a Group Lead at DeltaX.ai. I will be overseeing the Automotive Perception Group and mainly be working with several teams to build ADAS, DMS, OMS and SCMS solutions.
 - Apr 14, 2023 -	[Conference] Our team has successfully participated in CVPR’23 2nd Monocular Depth Estimation Challenge.
 - Oct 25, 2022 -	[Job] I have joined DeltaX.ai as a Team Lead and AI Researcher.
