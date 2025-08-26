@@ -59,7 +59,7 @@ I am originally from Bangladesh 🇧🇩 and currently working as a researcher i
     - **Nov 2024 - Present**
         - AI and Computer Vision Development: Designing AI models and traditional image processing solutions, addressing geometric and 3D vision challenges in computer vision.
         - System and Pipeline Development: Developing robust systems and data collection pipelines to support advanced vision applications and optimization tasks.
-        - Optimization and Problem Solving Tackling complex optimization problems to enhance performance and ensure seamless integration of computer vision solutions.
+        - Optimization and Problem Solving: Tackling complex optimization problems to enhance performance and ensure seamless integration of computer vision solutions.
 
 - _Group Lead, Team Lead and AI Researcher_, Automotive Perception Group, AI Lab, DeltaX.ai, Rep. of Korea.
     - **Oct 2022 - Nov 2024**
