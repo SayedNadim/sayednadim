@@ -29,8 +29,12 @@ I am originally from Bangladesh 🇧🇩 and currently working as a researcher i
 ---
 ### News
 ---
+- Aug 10, 2025
+    - [Conference] Our team has successfully participated in ICCV'25 AIM 2025 challenge on inverse tone mapping.
 - Nov 18, 2024
     - [Job] I have joined Deep In Sight as a senior AI/ML researcher. I will be working in R&D department, focusing on algorithms.
+- Jun 21, 2024
+    - [Conference] Our team has successfully participated in CVPR’24 Ntire 2024 challenge on image super-resolution (x4).
 - Nov 20, 2023
     - [Job] I have been assigned as a Group Lead at DeltaX.ai. I will be overseeing the Automotive Perception Group and mainly be working with several teams to build ADAS, DMS, OMS and SCMS solutions.
 - Apr 14, 2023
